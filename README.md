@@ -7,7 +7,7 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://term-graph.pages.dev/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-[cite_start]AI-Audit transforms static AI governance vocabularies into an interactive, multi-layered learning platform and a deployment-ready compliance enforcement tool[cite: 5]. [cite_start]Built for the **AI Glossary Challenge by ICAIRE** under **UNESCO patronage** in partnership with **BEYOND Academy** [cite: 68][cite_start], this system ensures that Arabic-speaking institutions can audit localized AI documentation against international benchmarks using unified, canonical terminology[cite: 41, 42].
+AI-Audit transforms static AI governance vocabularies into an interactive, multi-layered learning platform and a deployment-ready compliance enforcement tool. Built for the **AI Glossary Challenge by ICAIRE** under **UNESCO patronage** in partnership with **BEYOND Academy**, this system ensures that Arabic-speaking institutions can audit localized AI documentation against international benchmarks using unified, canonical terminology.
 
 
  
